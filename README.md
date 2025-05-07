@@ -14,7 +14,7 @@
 <h3>Insert this command into terminal (in .env file set correct values):</h3>
 
 ```
-echo "BOT_TOKEN=your_actual_token_here" > .env2
+echo "BOT_TOKEN=your_actual_token_here" > .env
 ```
 
 
