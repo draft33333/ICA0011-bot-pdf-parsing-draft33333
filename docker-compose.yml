@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  bot_conference:
+    build: .
+    container_name: bot_conference
+    volumes:
+      - .:/app
+    restart: always
